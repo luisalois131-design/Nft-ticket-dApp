@@ -1,0 +1,23 @@
+nft-ticket-dapp/
+│
+├─ public/
+│   └─ favicon.ico
+│
+├─ src/
+│   ├─ components/
+│   │   ├─ Header.js
+│   │   ├─ Footer.js
+│   │   ├─ ConnectWallet.js
+│   │   ├─ MintNFT.js
+│   │   └─ MyTickets.js
+│   │
+│   ├─ utils/
+│   │   └─ hederaClient.js
+│   │
+│   ├─ App.js
+│   ├─ index.js
+│   └─ index.css
+│
+├─ package.json
+├─ .gitignore
+└─ README.md
